@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### SeaMoneeCredit Frontend
 
-## Getting Started
+Next.js 14 application powering the multilingual marketing site for SeaMoneeCredit. It consumes the backend API for products, testimonials, blogs, applications, etc., and renders localized pages for `/en` and `/ms`.
 
-First, run the development server:
+---
+
+### Requirements
+
+- Node.js 18.18+ (recommend 20 LTS)
+- npm 9+ (or pnpm/yarn if you update the scripts)
+
+---
+
+### Environment variables
+
+Create a `.env.local` in `frontend/` with:
+
+```
+NEXT_PUBLIC_BASE_URL=https://www.example.com   # used for metadata/open graph
+NEXT_PUBLIC_API_URL=http://localhost:5000/api # backend REST API
+```
+
+Additional keys (analytics, map embeds, etc.) should be prefixed with `NEXT_PUBLIC_` if used client-side.
+
+---
+
+### Install dependencies
+
+```bash
+cd frontend
+npm install
+```
+
+---
+
+### Development
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Runs the Next.js dev server on `http://localhost:3000`
+- Root `/` automatically redirects to `/en`
+- Uses next-intl for locale routing (`/en/...`, `/ms/...`)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Production build
 
-## Learn More
+```bash
+npm run build    # compile for production
+npm run start    # serve .next output (uses PORT env)
+```
 
-To learn more about Next.js, take a look at the following resources:
+Make sure `NEXT_PUBLIC_*` values point to production services when building.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Linting
 
-## Deploy on Vercel
+```bash
+npm run lint
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Runs Next.js + ESLint rules (TypeScript, accessibility, etc.).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### Translation sync check
+
+```bash
+npm run check:i18n
+```
+
+Ensures `src/i18n/messages/en.json` and `ms.json` have matching keys (arrays included). CI can run this to prevent untranslated strings from slipping in.
+
+---
+
+### Analytics
+
+The localized layout automatically includes [Vercel Web Analytics](https://vercel.com/analytics). No extra config is necessary beyond enabling Analytics in the Vercel project dashboard; the snippet loads only in production builds. If you prefer a different analytics provider, replace the `<Analytics />` component in `src/app/[locale]/layout.tsx`.
+
+---
+
+### Project structure highlights
+
+- `src/app/[locale]/**` – localized routes (home, products, blog, testimonials, calculator, payment table, etc.)
+- `src/components/home/**` – hero/features/calculator/cta sections
+- `src/lib/api.ts` – lightweight fetch wrappers talking to backend API
+- `src/lib/analytics.ts` + `components/analytics/AnalyticsTracker.tsx` – page view tracking
+- `src/i18n/messages/{en,ms}.json` – translations mirrored between languages
+- `src/hooks/useSiteSettings.ts` – fetch site-wide branding/contact data
+
+---
+
+### Static assets
+
+- `public/brand/**` – logos & favicons
+- `src/app/page.tsx` – redirects to the default locale, no Next.js boilerplate
+
+---
+
+### Deployment notes
+
+- Frontend expects the backend to be reachable via `NEXT_PUBLIC_API_URL`
+- Configure rewrites or proxy rules if serving both via the same domain
+- For Vercel: add the `NEXT_PUBLIC_*` env vars in the project settings and `npm run build` as the build command

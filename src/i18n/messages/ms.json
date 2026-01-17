@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "title": "Pinjaman Peribadi Malaysia | Kelulusan Pantas dari 4.88% | SeaMoneeCredit",
+    "description": "Mohon pinjaman peribadi di Malaysia dengan kadar faedah dari 4.88% p.a. Kelulusan 24 jam, pinjaman sehingga RM200,000. Mohon sekarang!"
+  },
+  "nav": {
+    "home": "Utama",
+    "about": "Tentang Kami",
+    "products": "Produk",
+    "personalLoan": "Pinjaman Peribadi",
+    "businessLoan": "Pinjaman Perniagaan",
+    "carLoan": "Pinjaman Kereta",
+    "educationLoan": "Pinjaman Pendidikan",
+    "calculator": "Kalkulator",
+    "paymentTable": "Jadual Bayaran",
+    "faq": "Soalan Lazim",
+    "locations": "Lokasi",
+    "testimonials": "Testimoni",
+    "blog": "Blog",
+    "contact": "Hubungi Kami",
+    "apply": "Mohon Sekarang",
+    "menuTitle": "Navigasi",
+    "productsTitle": "Produk Pinjaman"
+  },
+  "hero": {
+    "title": "Pinjaman Peribadi Pantas & Mudah",
+    "subtitle": "Dapatkan kelulusan dalam 24 jam dengan kadar faedah dari",
+    "rate": "4.88% p.a.",
+    "cta": "Mohon Sekarang",
+    "secondaryCta": "Kira Pinjaman Anda",
+    "pill": "Pemberi pinjaman berlesen Malaysia",
+    "stats": {
+      "speed": {
+        "label": "Kelulusan pantas",
+        "value": "24j",
+        "detail": "Purata masa keputusan"
+      },
+      "rate": {
+        "label": "Kadar serendah",
+        "value": "4.88%",
+        "detail": "Setahun"
+      },
+      "amount": {
+        "label": "Pembiayaan sehingga",
+        "value": "RM200k",
+        "detail": "Peribadi & perniagaan"
+      }
+    },
+    "card": {
+      "title": "Gambaran Pinjaman",
+      "subtitle": "Contoh pinjaman peribadi",
+      "badge": "Dilindungi",
+      "rateLabel": "Kadar faedah",
+      "repaymentLabel": "Bayaran bulanan",
+      "disclaimer": "Anggaran hanya rujukan. Dapatkan sebut harga diperibadikan dalam 24 jam dengan pakar kami.",
+      "button": "Bercakap dengan pakar",
+      "sticker": "Dinilai 4.9/5 oleh peminjam"
+    }
+  },
+  "testimonialsPage": {
+    "title": "Kisah Pemohon",
+    "subtitle": "Rakyat Malaysia sebenar, pembiayaan sebenar bersama SeaMoneeCredit.",
+    "filterLabel": "Tapis mengikut jenis pinjaman",
+    "filters": {
+      "all": "Semua kisah",
+      "personal-loan": "Pinjaman Peribadi",
+      "business-loan": "Pinjaman Perniagaan",
+      "car-loan": "Pinjaman Kereta",
+      "home-loan": "Pinjaman Rumah",
+      "education-loan": "Pinjaman Pendidikan"
+    },
+    "ratingLabel": "Penilaian minimum",
+    "branchLabel": "Cawangan pilihan",
+    "ctaTitle": "Sedia jadi kisah kejayaan seterusnya?",
+    "ctaSubtitle": "Mohon dalam talian dan terima pelan diperibadikan dalam satu hari bekerja.",
+    "applyNow": "Mohon Sekarang",
+    "loading": "Memuatkan testimoni...",
+    "empty": "Tiada testimoni sepadan dengan tapisan anda.",
+    "loadMore": "Lihat kisah lain",
+    "meta": {
+      "yearsActive": "Tahun berkhidmat",
+      "customersHelped": "Pemohon dibiayai",
+      "rating": "Purata penilaian"
+    },
+    "branches": {
+      "all": "Semua cawangan"
+    }
+  },
+  "features": {
+    "title": "Mengapa Pilih SeaMoneeCredit?",
+    "headline": "Pembiayaan diperibadikan untuk rakyat Malaysia moden",
+    "description": "Harga telus, pakar pinjaman responsif dan pakej fleksibel untuk kekalkan aliran tunai sihat.",
+    "highlights": {
+      "fastApproval": "24j",
+      "lowRates": "4.88%",
+      "flexibleTerms": "10 thn",
+      "easyProcess": "3 langkah"
+    },
+    "fastApproval": {
+      "title": "Kelulusan Pantas",
+      "description": "Dapatkan kelulusan pinjaman dalam 24 jam"
+    },
+    "lowRates": {
+      "title": "Kadar Faedah Rendah",
+      "description": "Kadar kompetitif bermula dari 4.88% p.a."
+    },
+    "flexibleTerms": {
+      "title": "Terma Fleksibel",
+      "description": "Pilih tempoh sehingga 10 tahun"
+    },
+    "easyProcess": {
+      "title": "Proses Mudah",
+      "description": "Dokumentasi mudah dan permohonan dalam talian"
+    }
+  },
+  "howItWorks": {
+    "title": "Cara Ia Berfungsi",
+    "tagline": "Mudah, telus dan pantas",
+    "description": "Mohon sekali dan pakar kami akan membimbing setiap peringkat.",
+    "phases": {
+      "submit": "Hantar",
+      "verify": "Sah",
+      "approve": "Lulus",
+      "disburse": "Salur"
+    },
+    "step1": {
+      "title": "Mohon Dalam Talian",
+      "description": "Isi borang permohonan dalam talian yang mudah"
+    },
+    "step2": {
+      "title": "Hantar Dokumen",
+      "description": "Muat naik dokumen yang diperlukan"
+    },
+    "step3": {
+      "title": "Dapatkan Kelulusan",
+      "description": "Terima kelulusan dalam 24 jam"
+    },
+    "step4": {
+      "title": "Terima Dana",
+      "description": "Dapatkan wang terus ke akaun anda"
+    }
+  },
+  "products": {
+    "title": "Produk Pinjaman Kami",
+    "viewDetails": "Lihat Butiran",
+    "applyNow": "Mohon Sekarang",
+    "interestFrom": "Faedah dari",
+    "loanUpTo": "Pinjaman sehingga",
+    "tenureUpTo": "Tempoh sehingga",
+    "months": "bulan",
+    "years": "tahun",
+    "featuredBadge": "Popular",
+    "flexibleBadge": "Fleksibel",
+    "customAmount": "Tersuai",
+    "tenureUnit": "bulan",
+    "learnMore": "Ketahui Lagi",
+    "apply": "Mohon Sekarang",
+    "emptyState": "Produk akan tersedia tidak lama lagi.",
+    "compare": {
+      "title": "Bandingkan produk",
+      "subtitle": "Pilih sehingga dua produk untuk banding kadar, tempoh dan julat pinjaman.",
+      "counter": "{count}/{max} dipilih",
+      "add": "Tambah perbandingan",
+      "selected": "Ditambah",
+      "remove": "Buang",
+      "clear": "Kosongkan",
+      "empty": "Pilih dua produk untuk melihat perbandingan.",
+      "amount": "Julat pinjaman",
+      "rate": "Kadar faedah",
+      "tenure": "Tempoh",
+      "view": "Lihat butiran",
+      "apply": "Mohon",
+      "unknown": "Produk pinjaman"
+    }
+  },
+  "calculator": {
+    "title": "Kalkulator Pinjaman",
+    "subtitle": "Kira bayaran bulanan anda",
+    "heading": "Kira pembayaran sebelum anda mohon",
+    "description": "Laraskan jumlah, tempoh dan produk untuk dapatkan anggaran bulanan. Pasukan kami akan sahkan kadar sebenar selepas pengesahan.",
+    "selectProduct": "Pilih produk",
+    "chooseProduct": "Pilih produk pinjaman",
+    "loanAmount": "Jumlah Pinjaman",
+    "loanTerm": "Tempoh Pinjaman",
+    "interestRate": "Kadar Faedah",
+    "monthlyPayment": "Bayaran Bulanan",
+    "totalPayment": "Jumlah Bayaran",
+    "totalInterest": "Jumlah Faedah",
+    "calculate": "Kira",
+    "applyNow": "Mohon Pinjaman Ini",
+    "disclaimer": "Anggaran hanyalah rujukan. Kadar akhir bergantung pada penilaian kredit.",
+    "perMonth": "sebulan",
+    "monthsLabel": "bulan"
+  },
+  "eligibility": {
+    "eyebrow": "Semakan pantas",
+    "title": "Nadi Kelayakan",
+    "subtitle": "Laraskan beberapa butiran untuk melihat isyarat kesediaan sebelum memohon.",
+    "employmentLabel": "Status pekerjaan",
+    "employmentPlaceholder": "Pilih pekerjaan",
+    "purposeLabel": "Tujuan pinjaman",
+    "purposePlaceholder": "Pilih tujuan",
+    "incomeLabel": "Pendapatan bulanan",
+    "commitmentLabel": "Komitmen bulanan sedia ada",
+    "resultLabel": "Ringkasan kelayakan",
+    "scoreLabel": "Anggaran kekuatan",
+    "bands": {
+      "strong": "Kuat",
+      "fair": "Sederhana",
+      "review": "Perlu semakan",
+      "strongHint": "Sedia untuk memohon",
+      "fairHint": "Mungkin perlukan dokumen tambahan",
+      "reviewHint": "Berbincang dengan penasihat"
+    },
+    "tips": {
+      "t1": "Komitmen lebih rendah meningkatkan kemampuan bayar.",
+      "t2": "Sejarah pekerjaan stabil menaikkan keyakinan kelulusan.",
+      "t3": "Tujuan perniagaan dan pendidikan boleh dapat pelan tersuai."
+    },
+    "disclaimer": "Ini anggaran sahaja dan tidak menjamin kelulusan.",
+    "ctaPrimary": "Mulakan permohonan",
+    "ctaSecondary": "Hubungi pakar",
+    "readyTitle": "Apa perlu disediakan",
+    "readyNote": "Sediakan NRIC, slip gaji terkini dan penyata bank untuk percepatkan pengesahan.",
+    "employmentOptions": {
+      "employed": "Bekerja",
+      "self-employed": "Bekerja sendiri",
+      "government": "Kerajaan",
+      "unemployed": "Tidak bekerja",
+      "retired": "Bersara"
+    },
+    "purposeOptions": {
+      "home-renovation": "Pengubahsuaian rumah",
+      "debt-consolidation": "Penyatuan hutang",
+      "business-expansion": "Pengembangan perniagaan",
+      "education": "Pendidikan",
+      "medical": "Perbelanjaan perubatan",
+      "vehicle": "Pembelian kenderaan",
+      "other": "Tujuan lain"
+    }
+  },
+  "testimonials": {
+    "title": "Apa Kata Pelanggan Kami",
+    "pill": "Kisah Peminjam",
+    "description": "Maklum balas sebenar daripada rakyat Malaysia yang kami biayai — kadar telus, pelepasan pantas dan pakar khusus setiap permohonan.",
+    "stats": {
+      "rating": {
+        "label": "Penilaian purata",
+        "value": "4.9/5"
+      },
+      "speed": {
+        "label": "Diluluskan dalam",
+        "value": "24j"
+      },
+      "volume": {
+        "label": "Pinjaman diproses",
+        "value": "50k+"
+      }
+    },
+    "loanTypeFallback": "Pembiayaan fleksibel",
+    "dragHint": "Seret untuk lihat kisah",
+    "controls": {
+      "prev": "Testimoni sebelumnya",
+      "next": "Testimoni seterusnya",
+      "progress": "{current} / {total}"
+    },
+    "errors": {
+      "load": "Tidak dapat memuat testimoni"
+    }
+  },
+  "cta": {
+    "title": "Bersedia untuk Bermula?",
+    "subtitle": "Mohon sekarang dan dapatkan kelulusan pinjaman dalam 24 jam",
+    "button": "Mohon Sekarang",
+    "contactButton": "Hubungi Kami",
+    "pill": "Laluan Pinjaman Segera",
+    "cards": {
+      "licensed": {
+        "title": "Pemberi pinjaman berlesen",
+        "subtitle": "Mematuhi KPKT"
+      },
+      "specialist": {
+        "title": "Pakar pinjaman dedikasi",
+        "subtitle": "Bimbingan Bahasa Inggeris & BM"
+      }
+    },
+    "metrics": {
+      "approval": {
+        "label": "Masa kelulusan purata",
+        "value": "24j"
+      },
+      "rate": {
+        "label": "Kadar terendah",
+        "value": "4.88% p.a."
+      }
+    },
+    "journeyTitle": "Perjalanan 3 langkah",
+    "journeySteps": [
+      "Hantar permohonan anda",
+      "Terima pilihan diperibadikan",
+      "Tandatangan & terima dana"
+    ],
+    "help": "Perlu bantuan segera? Hubungi {phone} atau mesej WhatsApp untuk sokongan segera."
+  },
+  "footer": {
+    "tagline": "Rakan Kewangan Anda Yang Dipercayai",
+    "ctaEyebrow": "Sedia bila anda sedia",
+    "ctaTitle": "Biayai matlamat anda bersama {brand}",
+    "ctaDescription": "Dapatkan cadangan pinjaman diperibadikan dan pelan bayaran telus dalam satu hari bekerja.",
+    "insights": {
+      "rating": "Penilaian peminjam",
+      "approval": "Kelulusan purata",
+      "maxFinancing": "Pembiayaan maks",
+      "transparentFees": "Yuran telus"
+    },
+    "quickLinks": "Pautan Pantas",
+    "loanProducts": "Produk Pinjaman",
+    "contactUs": "Hubungi Kami",
+    "contactLabels": {
+      "phone": "Telefon",
+      "whatsapp": "WhatsApp",
+      "email": "E-mel",
+      "address": "Alamat"
+    },
+    "followUs": "Ikuti Kami",
+    "copyright": "© {year} SeaMoneeCredit. Hak cipta terpelihara.",
+    "privacy": "Dasar Privasi",
+    "terms": "Terma Perkhidmatan",
+    "disclaimer": "Penafian"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Hubungi kami untuk sebarang pertanyaan",
+    "form": {
+      "name": "Nama Penuh",
+      "email": "Alamat E-mel",
+      "phone": "Nombor Telefon",
+      "subject": "Subjek",
+      "message": "Mesej",
+      "submit": "Hantar Mesej",
+      "sending": "Menghantar...",
+      "success": "Mesej berjaya dihantar!",
+      "error": "Gagal menghantar mesej. Sila cuba lagi."
+    },
+    "info": {
+      "address": "Alamat",
+      "phone": "Telefon",
+      "email": "E-mel",
+      "hours": "Waktu Operasi"
+    }
+  },
+  "apply": {
+    "title": "Permohonan Pinjaman",
+    "subtitle": "Isi borang di bawah untuk memohon pinjaman",
+    "steps": {
+      "loan": "Butiran Pinjaman",
+      "personal": "Maklumat Peribadi",
+      "contact": "Maklumat Hubungan",
+      "employment": "Pekerjaan",
+      "review": "Semak & Hantar"
+    },
+    "highlights": {
+      "licensed": "Pemberi pinjaman berlesen",
+      "fastApproval": "Semakan peribadi dalam 24 jam",
+      "lowRate": "Kadar dari 4.88% setahun"
+    },
+    "form": {
+      "description": "Kongsikan beberapa maklumat supaya pegawai berlesen kami boleh menyediakan pelan pembayaran yang diperibadikan.",
+      "progress": "Langkah {current} daripada {total}",
+      "prepareTitle": "Sediakan dokumen ini",
+      "prepareList": [
+        "NRIC / pasport Malaysia atau dokumen SSM",
+        "3 bulan slip gaji atau penyata bank terkini",
+        "Tujuan pembiayaan & tempoh pilihan"
+      ],
+      "needHelp": "Perlu bantuan?",
+      "helpText": "WhatsApp kami di +60 12-345 6789 untuk konsultasi segera.",
+      "rememberDraftLabel": "Simpan kemajuan saya pada peranti ini",
+      "rememberDraftNote": "Draf disimpan pada peranti ini dan boleh dipadam bila-bila masa.",
+      "draftStatus": {
+        "saving": "Menyimpan draf...",
+        "saved": "Draf disimpan secara tempatan",
+        "idle": "Tiada draf disimpan"
+      },
+      "clearDraft": "Padam draf",
+      "placeholders": {
+        "loanType": "Pilih jenis pinjaman",
+        "loanPurpose": "Pilih tujuan pinjaman",
+        "fullName": "Masukkan nama penuh",
+        "gender": "Pilih jantina",
+        "maritalStatus": "Pilih status",
+        "state": "Pilih negeri",
+        "employmentStatus": "Pilih status pekerjaan",
+        "company": "Nama syarikat (pilihan)",
+        "position": "Jawatan (pilihan)",
+        "addressLine1": "Alamat jalan",
+        "loanPurposeOther": "Beritahu kami"
+      },
+      "loanTypes": {
+        "personal-loan": "Pinjaman Peribadi",
+        "business-loan": "Pinjaman Perniagaan",
+        "car-loan": "Pinjaman Kereta",
+        "home-loan": "Pinjaman Rumah",
+        "education-loan": "Pinjaman Pendidikan"
+      },
+      "loanPurposes": {
+        "home-renovation": "Pengubahsuaian rumah",
+        "debt-consolidation": "Penyatuan hutang",
+        "business-expansion": "Pengembangan perniagaan",
+        "education": "Pendidikan",
+        "medical": "Perbelanjaan perubatan",
+        "vehicle": "Pembelian kenderaan",
+        "other": "Tujuan lain"
+      },
+      "loanType": "Jenis Pinjaman",
+      "loanAmount": "Jumlah Pinjaman Dikehendaki",
+      "loanTerm": "Tempoh Pinjaman (bulan)",
+      "loanPurpose": "Tujuan Pinjaman",
+      "fullName": "Nama Penuh (seperti dalam IC)",
+      "icNumber": "Nombor IC",
+      "dateOfBirth": "Tarikh Lahir",
+      "gender": "Jantina",
+      "male": "Lelaki",
+      "female": "Perempuan",
+      "maritalStatus": "Status Perkahwinan",
+      "single": "Bujang",
+      "married": "Berkahwin",
+      "divorced": "Bercerai",
+      "widowed": "Balu/Duda",
+      "nationality": "Warganegara",
+      "phone": "Nombor Telefon",
+      "email": "Alamat E-mel",
+      "address": "Alamat",
+      "city": "Bandar",
+      "state": "Negeri",
+      "postcode": "Poskod",
+      "contactInfo": "Maklumat hubungan",
+      "employmentStatus": "Status Pekerjaan",
+      "employed": "Bekerja",
+      "selfEmployed": "Bekerja Sendiri",
+      "government": "Kakitangan Kerajaan",
+      "unemployed": "Tidak Bekerja",
+      "retired": "Bersara",
+      "companyName": "Nama Syarikat",
+      "position": "Jawatan",
+      "monthlyIncome": "Pendapatan Bulanan (RM)",
+      "yearsEmployed": "Tahun Bekerja",
+      "employerPhone": "Telefon Majikan (pilihan)",
+      "loanDetails": "Butiran pinjaman",
+      "ctosConsent": "Saya bersetuju dengan semakan kredit CTOS (caj RM30 dikenakan)",
+      "termsAccepted": "Saya menerima Terma dan Syarat",
+      "termsLink": "terma & syarat",
+      "privacyAccepted": "Saya menerima Dasar Privasi",
+      "privacyLink": "dasar privasi",
+      "marketingConsent": "Saya bersetuju menerima komunikasi pemasaran",
+      "reviewDescription": "Sila semak maklumat anda. Pegawai kami akan mengesahkan semuanya sebelum menghubungi anda.",
+      "loanAmountRange": "Julat jumlah pinjaman",
+      "contact": "Hubungi",
+      "next": "Seterusnya",
+      "back": "Kembali",
+      "loanAmountLabel": "Jumlah pinjaman",
+      "submit": "Hantar Permohonan",
+      "submitting": "Menghantar...",
+      "success": "Permohonan berjaya dihantar!",
+      "applicationId": "ID permohonan anda ialah",
+      "postSubmit": "Kami akan menghubungi anda melalui WhatsApp dalam satu hari bekerja.",
+      "newApplication": "Permohonan Baharu",
+      "backHome": "Kembali ke Utama",
+      "termsText": "Saya bersetuju dengan",
+      "privacyText": "Saya telah membaca",
+      "nextStepsTitle": "Apa berlaku selepas anda mohon?",
+      "nextSteps": [
+        "Kami menyemak permohonan anda dan hubungi melalui WhatsApp dalam 24 jam.",
+        "Kongsi dokumen sokongan melalui WhatsApp/emel dengan selamat.",
+        "Semak sebut harga diperibadikan dan tandatangan di cawangan berlesen kami."
+      ],
+      "whyUsTitle": "Mengapa pilih kami",
+      "whyUsSubtitle": "Dibina untuk pemohon moden",
+      "whyUsList": [
+        "Yuran telus dengan penasihat manusia membimbing setiap langkah.",
+        "Pakej untuk pekerja gaji, PKS dan pembiayaan bercagar.",
+        "Hantar secara digital, tandatangan selamat di pejabat berlesen."
+      ],
+      "statusHint": "Sudah mohon? Nyatakan nombor rujukan anda bila berbual dengan pakar kami untuk kemas kini segera."
+    }
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "subtitle": "Cari jawapan kepada soalan umum tentang perkhidmatan pinjaman kami",
+    "categories": {
+      "all": "Semua",
+      "general": "Umum",
+      "application": "Permohonan",
+      "payment": "Pembayaran",
+      "requirements": "Syarat",
+      "fees": "Yuran"
+    },
+    "stillHaveQuestions": "Masih ada soalan?",
+    "contactUs": "Hubungi Kami"
+  },
+  "about": {
+    "title": "Tentang SeaMoneeCredit",
+    "subtitle": "Rakan Kewangan Anda Yang Dipercayai di Malaysia",
+    "mission": {
+      "title": "Misi Kami",
+      "description": "Untuk menyediakan penyelesaian kewangan yang mudah diakses dan mampu milik kepada rakyat Malaysia, membantu mereka mencapai matlamat kewangan dengan ketelusan dan kepercayaan."
+    },
+    "vision": {
+      "title": "Visi Kami",
+      "description": "Untuk menjadi rakan kewangan yang paling dipercayai dan diutamakan untuk rakyat Malaysia yang mencari penyelesaian pembiayaan peribadi dan perniagaan."
+    },
+    "values": {
+      "title": "Nilai Kami",
+      "transparency": "Ketelusan",
+      "trust": "Kepercayaan",
+      "excellence": "Kecemerlangan",
+      "customerFirst": "Pelanggan Diutamakan"
+    }
+  },
+  "common": {
+    "learnMore": "Ketahui Lebih Lanjut",
+    "getStarted": "Bermula",
+    "loading": "Memuatkan...",
+    "error": "Sesuatu tidak kena",
+    "tryAgain": "Cuba Lagi",
+    "back": "Kembali",
+    "next": "Seterusnya",
+    "submit": "Hantar",
+    "cancel": "Batal",
+    "close": "Tutup",
+    "search": "Cari",
+    "noResults": "Tiada hasil ditemui",
+    "required": "Diperlukan",
+    "optional": "Pilihan",
+    "rm": "RM",
+    "perMonth": "/bulan",
+    "perYear": "/tahun"
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "title": "Personal Loan Malaysia | Fast Approval from 4.88% | SeaMoneeCredit",
+    "description": "Apply for personal loan in Malaysia with interest rates from 4.88% p.a. Fast 24-hour approval, loan up to RM200,000. Apply online now!"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "personalLoan": "Personal Loan",
+    "businessLoan": "Business Loan",
+    "carLoan": "Car Loan",
+    "educationLoan": "Education Loan",
+    "calculator": "Calculator",
+    "paymentTable": "Payment Table",
+    "faq": "FAQ",
+    "locations": "Locations",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "apply": "Apply Now",
+    "menuTitle": "Navigate",
+    "productsTitle": "Loan Products"
+  },
+  "hero": {
+    "title": "Fast & Easy Personal Loans",
+    "subtitle": "Get approved in 24 hours with interest rates from",
+    "rate": "4.88% p.a.",
+    "cta": "Apply Now",
+    "secondaryCta": "Calculate Your Loan",
+    "pill": "Licensed Malaysian money lender",
+    "stats": {
+      "speed": {
+        "label": "Fast approval",
+        "value": "24h",
+        "detail": "Average decision time"
+      },
+      "rate": {
+        "label": "Rates from",
+        "value": "4.88%",
+        "detail": "Per annum"
+      },
+      "amount": {
+        "label": "Financing up to",
+        "value": "RM200k",
+        "detail": "Personal & business"
+      }
+    },
+    "card": {
+      "title": "Loan Snapshot",
+      "subtitle": "Personal loan example",
+      "badge": "Protected",
+      "rateLabel": "Interest rate",
+      "repaymentLabel": "Monthly repayment",
+      "disclaimer": "Estimates are for illustration purposes. Speak to our specialist for a personalised quote within 24 hours.",
+      "button": "Talk to a specialist",
+      "sticker": "Rated 4.9/5 by borrowers"
+    }
+  },
+  "testimonialsPage": {
+    "title": "Borrower Stories",
+    "subtitle": "Real Malaysians, real financing wins with SeaMoneeCredit.",
+    "filterLabel": "Filter by loan type",
+    "filters": {
+      "all": "All stories",
+      "personal-loan": "Personal Loan",
+      "business-loan": "Business Loan",
+      "car-loan": "Car Loan",
+      "home-loan": "Home Loan",
+      "education-loan": "Education Loan"
+    },
+    "ratingLabel": "Minimum rating",
+    "branchLabel": "Branch focus",
+    "ctaTitle": "Ready to be our next success story?",
+    "ctaSubtitle": "Apply online and get a personalised plan within one business day.",
+    "applyNow": "Apply Now",
+    "loading": "Loading testimonials...",
+    "empty": "No testimonials match your filters yet.",
+    "loadMore": "Load more stories",
+    "meta": {
+      "yearsActive": "Years serving Malaysia",
+      "customersHelped": "Borrowers funded",
+      "rating": "Avg. rating"
+    },
+    "branches": {
+      "all": "All branches"
+    }
+  },
+  "features": {
+    "title": "Why Choose SeaMoneeCredit?",
+    "headline": "Tailored lending built for modern Malaysians",
+    "description": "Transparent pricing, responsive loan specialists, and flexible packages designed to keep your cash flow healthy.",
+    "highlights": {
+      "fastApproval": "24h",
+      "lowRates": "4.88%",
+      "flexibleTerms": "10 yrs",
+      "easyProcess": "3 steps"
+    },
+    "fastApproval": {
+      "title": "Fast Approval",
+      "description": "Get your loan approved within 24 hours"
+    },
+    "lowRates": {
+      "title": "Low Interest Rates",
+      "description": "Competitive rates starting from 4.88% p.a."
+    },
+    "flexibleTerms": {
+      "title": "Flexible Terms",
+      "description": "Choose tenure up to 10 years"
+    },
+    "easyProcess": {
+      "title": "Easy Process",
+      "description": "Simple documentation and online application"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "tagline": "Simple, transparent, and fast",
+    "description": "Submit once and our loan specialists guide you through each checkpoint.",
+    "phases": {
+      "submit": "Submit",
+      "verify": "Verify",
+      "approve": "Approve",
+      "disburse": "Disburse"
+    },
+    "step1": {
+      "title": "Apply Online",
+      "description": "Fill out our simple online application form"
+    },
+    "step2": {
+      "title": "Submit Documents",
+      "description": "Upload your required documents"
+    },
+    "step3": {
+      "title": "Get Approved",
+      "description": "Receive approval within 24 hours"
+    },
+    "step4": {
+      "title": "Receive Funds",
+      "description": "Get your money directly in your account"
+    }
+  },
+  "products": {
+    "title": "Our Loan Products",
+    "viewDetails": "View Details",
+    "applyNow": "Apply Now",
+    "interestFrom": "Interest from",
+    "loanUpTo": "Loan up to",
+    "tenureUpTo": "Tenure up to",
+    "months": "months",
+    "years": "years",
+    "featuredBadge": "Popular",
+    "flexibleBadge": "Flexible",
+    "customAmount": "Custom",
+    "tenureUnit": "months",
+    "learnMore": "Learn More",
+    "apply": "Apply Now",
+    "emptyState": "Products will be available soon.",
+    "compare": {
+      "title": "Compare products",
+      "subtitle": "Select up to two products to compare rates, tenure, and loan range.",
+      "counter": "{count}/{max} selected",
+      "add": "Add to compare",
+      "selected": "Added",
+      "remove": "Remove",
+      "clear": "Clear",
+      "empty": "Pick two products to unlock the comparison view.",
+      "amount": "Loan range",
+      "rate": "Interest rate",
+      "tenure": "Tenure",
+      "view": "View details",
+      "apply": "Apply",
+      "unknown": "Loan product"
+    }
+  },
+  "calculator": {
+    "title": "Loan Calculator",
+    "subtitle": "Calculate your monthly payment",
+    "heading": "Model your repayments before you apply",
+    "description": "Adjust amount, tenure and product to get a quick monthly estimate. Our team will confirm exact rates after verification.",
+    "selectProduct": "Select product",
+    "chooseProduct": "Choose loan product",
+    "loanAmount": "Loan Amount",
+    "loanTerm": "Loan Term",
+    "interestRate": "Interest Rate",
+    "monthlyPayment": "Monthly Payment",
+    "totalPayment": "Total Payment",
+    "totalInterest": "Total Interest",
+    "calculate": "Calculate",
+    "applyNow": "Apply for This Loan",
+    "disclaimer": "Estimates are for reference only. Final rates depend on credit assessment.",
+    "perMonth": "per month",
+    "monthsLabel": "months"
+  },
+  "eligibility": {
+    "eyebrow": "Quick check",
+    "title": "Eligibility Pulse",
+    "subtitle": "Adjust a few details to see a live readiness signal before you apply.",
+    "employmentLabel": "Employment status",
+    "employmentPlaceholder": "Select employment",
+    "purposeLabel": "Loan purpose",
+    "purposePlaceholder": "Select purpose",
+    "incomeLabel": "Monthly income",
+    "commitmentLabel": "Existing monthly commitments",
+    "resultLabel": "Readiness snapshot",
+    "scoreLabel": "Estimated strength",
+    "bands": {
+      "strong": "Strong",
+      "fair": "Fair",
+      "review": "Needs review",
+      "strongHint": "Good position to apply",
+      "fairHint": "We may need extra docs",
+      "reviewHint": "Speak with an advisor"
+    },
+    "tips": {
+      "t1": "Lower commitments improve affordability and raise your score.",
+      "t2": "Stable employment history strengthens approval confidence.",
+      "t3": "Business and education purposes often receive tailored plans."
+    },
+    "disclaimer": "This is an indicative signal only and does not guarantee approval.",
+    "ctaPrimary": "Start application",
+    "ctaSecondary": "Talk to a specialist",
+    "readyTitle": "What to prepare",
+    "readyNote": "Keep your NRIC, latest payslips, and bank statements ready to speed up verification.",
+    "employmentOptions": {
+      "employed": "Employed",
+      "self-employed": "Self-employed",
+      "government": "Government",
+      "unemployed": "Unemployed",
+      "retired": "Retired"
+    },
+    "purposeOptions": {
+      "home-renovation": "Home renovation",
+      "debt-consolidation": "Debt consolidation",
+      "business-expansion": "Business expansion",
+      "education": "Education",
+      "medical": "Medical expenses",
+      "vehicle": "Vehicle purchase",
+      "other": "Other purpose"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "pill": "Borrower Stories",
+    "description": "Real feedback from Malaysians we've funded — transparent rates, fast payouts, and a dedicated specialist on every application.",
+    "stats": {
+      "rating": {
+        "label": "Average rating",
+        "value": "4.9/5"
+      },
+      "speed": {
+        "label": "Approved within",
+        "value": "24h"
+      },
+      "volume": {
+        "label": "Loans processed",
+        "value": "50k+"
+      }
+    },
+    "loanTypeFallback": "Flexible lending",
+    "dragHint": "Drag to explore stories",
+    "controls": {
+      "prev": "Previous testimonials",
+      "next": "Next testimonials",
+      "progress": "{current} / {total}"
+    },
+    "errors": {
+      "load": "Unable to load testimonials"
+    }
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Apply now and get your loan approved within 24 hours",
+    "button": "Apply Now",
+    "contactButton": "Contact Us",
+    "pill": "Instant Loan Path",
+    "cards": {
+      "licensed": {
+        "title": "Licensed money lender",
+        "subtitle": "Compliant with KPKT"
+      },
+      "specialist": {
+        "title": "Dedicated loan specialist",
+        "subtitle": "Guidance in English & BM"
+      }
+    },
+    "metrics": {
+      "approval": {
+        "label": "Avg. approval time",
+        "value": "24h"
+      },
+      "rate": {
+        "label": "Lowest rate",
+        "value": "4.88% p.a."
+      }
+    },
+    "journeyTitle": "3-step journey",
+    "journeySteps": [
+      "Submit your application",
+      "Receive tailored options",
+      "Sign & receive funds"
+    ],
+    "help": "Need help right away? Call us at {phone} or message via WhatsApp for instant support."
+  },
+  "footer": {
+    "tagline": "Your Trusted Financial Partner",
+    "ctaEyebrow": "Ready when you are",
+    "ctaTitle": "Finance your goals with {brand}",
+    "ctaDescription": "Get a personalised loan proposal and transparent repayment plan within one business day.",
+    "insights": {
+      "rating": "Borrower rating",
+      "approval": "Avg. approval",
+      "maxFinancing": "Max financing",
+      "transparentFees": "Transparent fees"
+    },
+    "quickLinks": "Quick Links",
+    "loanProducts": "Loan Products",
+    "contactUs": "Contact Us",
+    "contactLabels": {
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "address": "Address"
+    },
+    "followUs": "Follow Us",
+    "copyright": "© {year} SeaMoneeCredit. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Disclaimer"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for any inquiries",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Business Hours"
+    }
+  },
+  "apply": {
+    "title": "Loan Application",
+    "subtitle": "Fill out the form below to apply for a loan",
+    "steps": {
+      "loan": "Loan Details",
+      "personal": "Personal Information",
+      "contact": "Contact Information",
+      "employment": "Employment",
+      "review": "Review & Submit"
+    },
+    "highlights": {
+      "licensed": "Licensed Malaysian lender",
+      "fastApproval": "24h personalised review",
+      "lowRate": "Rates from 4.88% p.a."
+    },
+    "form": {
+      "description": "Share a few details so our licensed officers can prepare a personalised repayment plan.",
+      "progress": "Step {current} of {total}",
+      "prepareTitle": "Prepare these documents",
+      "prepareList": [
+        "Malaysian NRIC / passport or SSM docs",
+        "Latest 3 months payslips or bank statements",
+        "Purpose of financing & preferred tenure"
+      ],
+      "needHelp": "Need help?",
+      "helpText": "WhatsApp us at +60 12-345 6789 for an instant consultation.",
+      "rememberDraftLabel": "Remember my progress on this device",
+      "rememberDraftNote": "Drafts are saved on this device and can be cleared anytime.",
+      "draftStatus": {
+        "saving": "Saving draft...",
+        "saved": "Draft saved locally",
+        "idle": "No draft stored"
+      },
+      "clearDraft": "Clear draft",
+      "placeholders": {
+        "loanType": "Select loan type",
+        "loanPurpose": "Select purpose",
+        "fullName": "Enter your full name",
+        "gender": "Select gender",
+        "maritalStatus": "Select status",
+        "state": "Select state",
+        "employmentStatus": "Select employment status",
+        "company": "Company name (optional)",
+        "position": "Job title (optional)",
+        "addressLine1": "Street address",
+        "loanPurposeOther": "Tell us more"
+      },
+      "loanTypes": {
+        "personal-loan": "Personal Loan",
+        "business-loan": "Business Loan",
+        "car-loan": "Car Loan",
+        "home-loan": "Home Loan",
+        "education-loan": "Education Loan"
+      },
+      "loanPurposes": {
+        "home-renovation": "Home renovation",
+        "debt-consolidation": "Debt consolidation",
+        "business-expansion": "Business expansion",
+        "education": "Education",
+        "medical": "Medical expenses",
+        "vehicle": "Vehicle purchase",
+        "other": "Other purpose"
+      },
+      "loanType": "Loan Type",
+      "loanAmount": "Desired Loan Amount",
+      "loanTerm": "Loan Term (months)",
+      "loanPurpose": "Loan Purpose",
+      "fullName": "Full Name (as per IC)",
+      "icNumber": "IC Number",
+      "dateOfBirth": "Date of Birth",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "maritalStatus": "Marital Status",
+      "single": "Single",
+      "married": "Married",
+      "divorced": "Divorced",
+      "widowed": "Widowed",
+      "nationality": "Nationality",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "address": "Address",
+      "city": "City",
+      "state": "State",
+      "postcode": "Postcode",
+      "contactInfo": "Contact Info",
+      "employmentStatus": "Employment Status",
+      "employed": "Employed",
+      "selfEmployed": "Self-Employed",
+      "government": "Government Servant",
+      "unemployed": "Unemployed",
+      "retired": "Retired",
+      "companyName": "Company Name",
+      "position": "Position",
+      "monthlyIncome": "Monthly Income (RM)",
+      "yearsEmployed": "Years Employed",
+      "employerPhone": "Employer Phone (optional)",
+      "loanDetails": "Loan details",
+      "ctosConsent": "I consent to CTOS credit check (RM30 fee applies)",
+      "termsAccepted": "I accept the Terms and Conditions",
+      "termsLink": "terms & conditions",
+      "privacyAccepted": "I accept the Privacy Policy",
+      "privacyLink": "privacy policy",
+      "marketingConsent": "I agree to receive marketing communications",
+      "reviewDescription": "Please review your details. Our licensed officers will verify everything before reaching out.",
+      "loanAmountRange": "Loan amount range",
+      "contact": "Contact",
+      "next": "Next",
+      "back": "Back",
+      "loanAmountLabel": "Loan amount",
+      "submit": "Submit Application",
+      "submitting": "Submitting...",
+      "success": "Application submitted successfully!",
+      "applicationId": "Your application ID is",
+      "postSubmit": "We will contact you via WhatsApp within one business day.",
+      "newApplication": "New Application",
+      "backHome": "Back to Home",
+      "termsText": "I agree to the",
+      "privacyText": "I have read the",
+      "nextStepsTitle": "What happens after you apply?",
+      "nextSteps": [
+        "We review your submission and WhatsApp you within 24 hours.",
+        "Share supporting documents securely via WhatsApp/email.",
+        "Review the personalised quote and sign at our licensed office."
+      ],
+      "whyUsTitle": "Why choose us",
+      "whyUsSubtitle": "Built for modern borrowers",
+      "whyUsList": [
+        "Transparent fees with human advisors guiding every step.",
+        "Packages for salary earners, SMEs, and asset-backed refinancing.",
+        "Digital submission, secure signing at licensed branches."
+      ],
+      "statusHint": "Already applied? Quote your reference number when chatting with our specialist to get instant updates."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our loan services",
+    "categories": {
+      "all": "All",
+      "general": "General",
+      "application": "Application",
+      "payment": "Payment",
+      "requirements": "Requirements",
+      "fees": "Fees"
+    },
+    "stillHaveQuestions": "Still have questions?",
+    "contactUs": "Contact Us"
+  },
+  "about": {
+    "title": "About SeaMoneeCredit",
+    "subtitle": "Your Trusted Financial Partner in Malaysia",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide accessible and affordable financial solutions to Malaysians, helping them achieve their financial goals with transparency and trust."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the most trusted and preferred financial partner for Malaysians seeking personal and business financing solutions."
+    },
+    "values": {
+      "title": "Our Values",
+      "transparency": "Transparency",
+      "trust": "Trust",
+      "excellence": "Excellence",
+      "customerFirst": "Customer First"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "tryAgain": "Try Again",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "search": "Search",
+    "noResults": "No results found",
+    "required": "Required",
+    "optional": "Optional",
+    "rm": "RM",
+    "perMonth": "/month",
+    "perYear": "/year"
+  }
+}
