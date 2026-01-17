@@ -60,7 +60,7 @@ export default async function BlogDetailPage({ params }: Props) {
   }
 
   const lang = locale === 'ms' ? 'ms' : 'en';
-  const canonical = `${BASE_URL}/${locale}/blog/${post.slug}`;
+  const canonical = `${baseUrl}/${locale}/blog/${post.slug}`;
 
   return (
     <>
